@@ -8,7 +8,7 @@ metadata:
     flux.weave.works/automated: "true"
     flux.weave.works/tag.chart-image: semver:~0.4
 spec:
-  releaseName: podinfo-prod
+  releaseName: testing-prod
   chart:
     git: git@github.com:notamargetic/helm-operator-get-started
     path: charts/podinfo
